@@ -1,0 +1,3 @@
+initializing
+reset 
+	uniqueInstance := nil

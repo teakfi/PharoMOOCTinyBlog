@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TuomoKalliokoski 10/26/2019 12:09",
+	"super" : "Object",
+	"category" : "TinyBlog",
+	"classinstvars" : [
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"posts"
+	],
+	"name" : "TBBlog",
+	"type" : "normal"
+}
