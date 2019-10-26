@@ -1,0 +1,3 @@
+setup
+tearDown 
+	TBBlog reset
